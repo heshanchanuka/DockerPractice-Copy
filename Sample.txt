@@ -7,3 +7,6 @@ this is for git practice 3
 this is for git practice 4
 this is for git practice 5
 this is for git practice 6
+
+
+This change is done in the feature1 branch , testing for merge
