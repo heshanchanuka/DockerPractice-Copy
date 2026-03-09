@@ -1,3 +1,9 @@
 this is for git practice 1
 this is for git practice 2
 this is for git practice 3
+
+
+
+this is for git practice 4
+this is for git practice 5
+this is for git practice 6
